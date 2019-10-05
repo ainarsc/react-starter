@@ -1,11 +1,7 @@
-React/Redux/Router starter
+### React/Redux/Router starter
 
-### `npm start`
-
-Runs the app in the development mode
-
-### `npm run build`
-
-Builds the app for production to the `build` folder
+1. git clone https://github.com/ainarsc/react-starter.git
+2. npm init 
+3. npm install
 
 
