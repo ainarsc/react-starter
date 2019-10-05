@@ -14,7 +14,6 @@
     "react-scripts": "3.2.0",
     "redux": "^4.0.4",
     "redux-devtools-extension": "^2.13.8",
-    "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "styled-components": "^4.4.0"
   },
@@ -40,7 +39,8 @@
     ]
   },
   "devDependencies": {
-    "nodemon": "^1.19.3"
-  },
-  "proxy": "http://localhost:5000"
+    "nodemon": "^1.19.3",
+    "redux-devtools": "^3.5.0",
+    "redux-logger": "^3.0.6"
+  }
 }
